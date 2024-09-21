@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Programação/logica-js-projeto_inicial/logica-js-projeto_inicial"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/Portfólio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-curso-2-aula1"
+	}
+}
